@@ -1,0 +1,17 @@
+{
+    "name": "SystemMediators",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4c25c05f410a3a447a75c3b0909152ef",
+        "GUID:ecd67031b51827f45928cfb5d0f305e6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

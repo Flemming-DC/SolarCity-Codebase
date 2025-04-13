@@ -1,0 +1,19 @@
+{
+    "name": "DecisionSystem",
+    "rootNamespace": "",
+    "references": [
+        "Tools",
+        "Unity.InputSystem",
+        "CharacterSystem",
+        "SystemMediators"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
